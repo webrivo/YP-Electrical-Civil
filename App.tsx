@@ -160,7 +160,7 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 z-10 flex flex-col items-start justify-center">
         <div className="overflow-hidden">
           <span className={`block text-sm md:text-lg text-slate-500 mb-2 tracking-widest uppercase transition-transform duration-1000 delay-500 ${loaded ? 'translate-y-0' : 'translate-y-full'}`}>
-            Premium Electrical Services
+            YP Electrical and Civil Works
           </span>
         </div>
         
